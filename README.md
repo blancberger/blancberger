@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @blancberger
-- 👀 I’m interested in Music,Motorbikes,Biology,Basketball,Martial Arts and many others
+- 👀 I’m interested in Music,Guitar Luthiery/Woodworking,Motorbikes,Biology,Basketball,Martial Arts and many others
 - 🌱 I’m currently learning Python,HTML_CSS_JAVASCRIPT
 - 💞️ I’m looking to collaborate on (wish but simply can't contribute at all)
 - 📫 How to reach me (impossible)

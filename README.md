@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on (wish but simply can't contribute at all)
 - 📫 How to reach me (impossible)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: working on building a SaaS B2B,B2C CRM/ERP
+- ⚡ Fun fact: working on building a multitenant SaaS B2B,B2C CRM/ERP
 
 <!---
 blancberger/blancberger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

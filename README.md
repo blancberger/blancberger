@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @blancberger
 - 👀 I’m interested in Music,Guitar Luthiery/Woodworking,Motorbikes,Biology,Basketball,Martial Arts and many others
 - 🌱 I’m currently learning SQL,Java,Python,Html_Css_Javascript
-- 💞️ I’m looking to collaborate on (wish but simply can't contribute at all)
+- 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me (impossible)
 - 😄 Pronouns: ...
 - ⚡ Fun fact: working on building a multitenant SaaS B2B,B2C CRM/ERP

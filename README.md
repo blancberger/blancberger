@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on something interesting
 - 📫 How to reach me (impossible)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: working on building a multitenant SaaS B2B,B2C CRM/ERP
+- ⚡ Fun fact: ...
 
 <!---
 blancberger/blancberger is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
